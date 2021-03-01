@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="A&E", A&E
+#EXTINF:-1, A&E - 1
 http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/3.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 group-title="A&E", A&E2
+#EXTINF:-1, A&E - 2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/482?checkedby:iptvcat.com
 
-#EXTINF:-1 group-title="A&E", A&E3
+#EXTINF:-1, A&E - 3
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, ABC
@@ -39,17 +39,32 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839
 #EXTINF:-1, Comedy Central
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731?checkedby:iptvcat.com
 
-#EXTINF:-1, Discovery Channel
+#EXTINF:-1, Discovery Channel - 1 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125?checkedby:iptvcat.com
 
-#EXTINF:-1, Disney Channel
+#EXTINF:-1, Discovery Channel - 2
+http://bazarhd.online:80/307210117666/307210117666/81012?checkedby:iptvcat.com
+
+#EXTINF:-1, Discovery Channel - 3
+http://iptv4.ddns.net:8080/123/123/4279?checkedby:iptvcat.com
+
+#EXTINF:-1, Disney Channel - 1
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/35793?checkedby:iptvcat.com
 
-#EXTINF:-1, Disney Junior
+#EXTINF:-1, Disney Channel - 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512?checkedby:iptvcat.com
+
+#EXTINF:-1, Disney Channel - 3
+http://bazarhd.online:80/307210150633/307210150633/81029?checkedby:iptvcat.com
+
+#EXTINF:-1, Disney Junior - 1
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/35794?checkedby:iptvcat.com
 
-#EXTINF:-1, Disney XD
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/35795?checkedby:iptvcat.com
+#EXTINF:-1, Disney Junior - 2 
+http://bazarhd.online:80/307210117666/307210117666/81030?checkedby:iptvcat.com
+
+#EXTINF:-1, Disney Junior - 3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513?checkedby:iptvcat.com
 
 #EXTINF:-1, E! Entertainment
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516?checkedby:iptvcat.com
@@ -90,11 +105,23 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1, NBC
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/502?checkedby:iptvcat.com
 
-#EXTINF:-1, Nickelodeon
+#EXTINF:-1, Nickelodeon - 1
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/35808?checkedby:iptvcat.com
 
-#EXTINF:-1, Nick Junior
+#EXTINF:-1, Nickelodeon - 2
+http://iptv4.ddns.net:8080/123/123/4352?checkedby:iptvcat.com
+
+#EXTINF:-1, Nickelodeon - 3
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/35808?checkedby:iptvcat.com
+
+#EXTINF:-1, Nick Junior - 1
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53903?checkedby:iptvcat.com
+
+#EXTINF:-1, Nick Junior - 2
+http://bazarhd.online:80/307210150633/307210150633/81033?checkedby:iptvcat.com
+
+#EXTINF:-1, Nick Junior - 3
+http://iptv4.ddns.net:8080/123/123/4353?checkedby:iptvcat.com
 
 #EXTINF:-1, Paramount Network
 http://mytv.club:8080/unknown/unknown123/22869?checkedby:iptvcat.com
@@ -102,8 +129,14 @@ http://mytv.club:8080/unknown/unknown123/22869?checkedby:iptvcat.com
 #EXTINF:-1, Showtime
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/63653?checkedby:iptvcat.com
 
-#EXTINF:-1, Smithsonian
+#EXTINF:-1, Smithsonian - 1
 http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52738?checkedby:iptvcat.com
+
+#EXTINF:-1, Smithsonian - 2
+http://iptv4.ddns.net:8080/123/123/4381?checkedby:iptvcat.com
+
+#EXTINF:-1, Smithsonian - 3
+http://ott-iptv.info:2016/Daniel/Daniel/51005?checkedby:iptvcat.com
 
 #EXTINF:-1, Starz
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/63634?checkedby:iptvcat.com
@@ -114,8 +147,14 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1, TBS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758?checkedby:iptvcat.com
 
-#EXTINF:-1, TLC
+#EXTINF:-1, TLC - 1
 http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/33.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, TLC - 2
+http://bazarhd.online:80/307210117666/307210117666/81181?checkedby:iptvcat.com
+
+#EXTINF:-1, TLC - 3
+http://supersonictv.live:25461/903310/034806/22157?checkedby:iptvcat.com
 
 #EXTINF:-1, TNT
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660?checkedby:iptvcat.com
